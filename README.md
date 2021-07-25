@@ -1,3 +1,17 @@
+### Description
+
+Completed a few react projects from the list. The ones completed are the following:
+
+- 02-Tours, available here: https://react-project-tours-valv.netlify.app/ 
+
+- 05-Menu, available here: https://react-project-menu-valv.netlify.app/
+
+- 07-Slider, available here: https://react-project-slider-valv.netlify.app/
+
+- 10-Grocery Bud, available here: https://react-project-grocery-list-valv.netlify.app/
+
+- 15-Cocktails, available here: https://react-project-cocktails-valv.netlify.app/
+
 #### Tutorial Video
 
 (React Tutorial)[https://youtu.be/iZhV0bILFb0]
